@@ -40,7 +40,7 @@ Existen recursos de sobra (especialmente en inglés), lo único que deben hacer 
 * [Python for Everybody - Full University Python Course by FreeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=youtu.be)
   * Amigable pero super extenso y con explicaciones más formales.
 
-* [Data Science Basics with Python](https://youtube.com/playlist?list=PLgNJO2hghbmjpjt9sa2POi4U0a1-GGTlj)
+* [Data Science Basics with Python by Nicholas Renotte](https://youtube.com/playlist?list=PLgNJO2hghbmjpjt9sa2POi4U0a1-GGTlj)
 
 
 
