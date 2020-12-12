@@ -21,10 +21,16 @@ Dictado por Carolina Shimabukuro y Gustavo Juantorena
 
 ## Recursos amigables para aprender Python (en español e inglés)
 
+Existen recursos de sobra (especialmente en inglés), lo único que deben hacer es buscar las palabras clave de lo que les interesa en google o youtube. Este pequeño compendio no intenta ser para nada exhaustivo.
+
 ### Español
+
+* [Documentación oficial de Python en español](https://docs.python.org/es/3/)
+
 * [Aprendiendo Python | Curso de Python 2020 desde cero COMPLETO by Fede Yulita](https://www.youtube.com/playlist?list=PLZMkywH6sgYja6iXYNFTAcItHHvt842gH)
   * El curso es ameno, Fede es un chico de computación en Exactas, UBA.
-
+  
+* [Curso PYTHON DATA SCIENCE 🐍💻 2020 en Español by Rafa Gonzalez Gouveia](https://www.youtube.com/playlist?list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9)
 
 ### Inglés
 
@@ -33,6 +39,10 @@ Dictado por Carolina Shimabukuro y Gustavo Juantorena
 
 * [Python for Everybody - Full University Python Course by FreeCodeCamp](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=youtu.be)
   * Amigable pero super extenso y con explicaciones más formales.
+
+* [Data Science Basics with Python](https://youtube.com/playlist?list=PLgNJO2hghbmjpjt9sa2POi4U0a1-GGTlj)
+
+
 
 
 
