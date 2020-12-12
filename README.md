@@ -31,6 +31,7 @@ Existen recursos de sobra (especialmente en inglés), lo único que deben hacer 
   * El curso es ameno, Fede es un chico de computación en Exactas, UBA.
   
 * [Curso PYTHON DATA SCIENCE 🐍💻 2020 en Español by Rafa Gonzalez Gouveia](https://www.youtube.com/playlist?list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9)
+ * Muy buen canal para ciencia de datos con Python (también tiene videos con R!) en español.
 
 ### Inglés
 
