@@ -3,6 +3,8 @@ Taller de Python básico. Introducción al análisis de datos con Python y Googl
 
 Dictado por Carolina Shimabukuro y Gustavo Juantorena
 
+**Para abrir los notebook entrar al archivo y presionar en "Open in Colab"**
+
 # Contenido
 
 ## Día 1
