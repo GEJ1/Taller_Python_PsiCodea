@@ -9,7 +9,7 @@ Dictado por Carolina Shimabukuro y Gustavo Juantorena
 
 - [Día 1](#Día-1)
 - [Día 2](#Día-2)
-- [Recursos amigables para aprender Python (en español e inglés)](#Recursos-amigables-para-aprender-Python-(en-español-e-inglés))
+- [Recursos amigables para aprender Python (en español e inglés)](#Recursos-amigables-para-aprender-Python)
 
 ## Día 1
 ### *PsiCodea_día_1.ipynb*
@@ -23,7 +23,7 @@ Dictado por Carolina Shimabukuro y Gustavo Juantorena
 * Poyecto con datos de experimento online de percepción visual
 
 
-## Recursos amigables para aprender Python (en español e inglés)
+## Recursos amigables para aprender Python
 
 Existen recursos de sobra (especialmente en inglés), lo único que deben hacer es buscar las palabras clave de lo que les interesa en google o youtube. Este pequeño compendio no intenta ser para nada exhaustivo.
 
