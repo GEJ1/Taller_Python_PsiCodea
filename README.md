@@ -32,6 +32,9 @@ Existen recursos de sobra (especialmente en inglés), lo único que deben hacer 
   
 * [Curso PYTHON DATA SCIENCE 🐍💻 2020 en Español by Rafa Gonzalez Gouveia](https://www.youtube.com/playlist?list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9)
  * Muy buen canal para ciencia de datos con Python (también tiene videos con R!) en español.
+ 
+* [Contenido sobre programación para análisis y visualización de datos en Python](https://github.com/talleresopensource/ciclo-01/tree/master/encuentro1)
+ * Este contenido es parte de un proyecto educativo llamado tallers open source gestado por estudiantes en Exactas, UBA.
 
 ### Inglés
 
