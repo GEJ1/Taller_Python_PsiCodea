@@ -34,7 +34,7 @@ Existen recursos de sobra (especialmente en inglés), lo único que deben hacer 
  * Muy buen canal para ciencia de datos con Python (también tiene videos con R!) en español.
  
 * [Contenido sobre programación para análisis y visualización de datos en Python](https://github.com/talleresopensource/ciclo-01/tree/master/encuentro1)
-  * Este contenido es parte de un proyecto educativo llamado tallers open source gestado por estudiantes en Exactas, UBA.
+  * Este contenido es parte de un proyecto educativo llamado [Talleres Open Source](https://github.com/talleresopensource) gestado por estudiantes en Exactas, UBA.
 
 ### Inglés
 
