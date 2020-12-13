@@ -7,6 +7,10 @@ Dictado por Carolina Shimabukuro y Gustavo Juantorena
 
 # Contenido
 
+- [Día 1](#Día-1)
+- [Día 2](#Día-2)
+- [Recursos amigables para aprender Python (en español e inglés)](#Recursos-amigables-para-aprender-Python-(en-español-e-inglés))
+
 ## Día 1
 ### *PsiCodea_día_1.ipynb*
 
