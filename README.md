@@ -40,6 +40,9 @@ Existen recursos de sobra (especialmente en inglés), lo único que deben hacer 
 * [Contenido sobre programación para análisis y visualización de datos en Python](https://github.com/talleresopensource/ciclo-01/tree/master/encuentro1)
   * Este contenido es parte de un proyecto educativo llamado [Talleres Open Source](https://github.com/talleresopensource) gestado por estudiantes en Exactas, UBA.
 
+* [Canal de YouTube de CCTMéxico](https://www.youtube.com/c/cctmexico/playlists)
+  * Excelente canal mexicano con videos de temas relacionados a las ciencias básicas, programación en Python, ciencia de datos y software entre otros.
+  
 ### Inglés
 
 * [Python Tutorial - Python for Beginners by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=7s)
