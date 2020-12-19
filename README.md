@@ -1,4 +1,5 @@
-# Taller_Python_PsiCodea
+# PsiCodea: Taller de Python
+
 Taller de Python básico. Introducción al análisis de datos con Python y Google Colab
 
 Dictado por [Carolina Shimabukuro](https://www.linkedin.com/in/carolina-shimabukuro-905bb95/) y [Gustavo Juantorena](https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/)
