@@ -1,4 +1,4 @@
-# PsiCodea: Taller de Python
+# **PsiCodea: Taller de Python**
 
 Taller de Python básico. Introducción al análisis de datos con Python y Google Colab
 
