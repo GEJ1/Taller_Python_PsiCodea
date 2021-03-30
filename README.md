@@ -13,12 +13,12 @@ Dictado por [Carolina Shimabukuro](https://www.linkedin.com/in/carolina-shimabuk
 - [Recursos amigables para aprender Python](#Recursos-amigables-para-aprender-Python)
 
 ## Día 1
-### *PsiCodea_día_1.ipynb*
+### [*PsiCodea_día_1.ipynb*](https://github.com/GEJ1/Taller_Python_PsiCodea/blob/main/PsiCodea_d%C3%ADa_1.ipynb)
 
 * Introducción a la programación y a la sintaxis de Python
 
 ## Día 2
-### *PsiCodea_día_2.ipynb*
+### [*PsiCodea_día_2.ipynb*](https://github.com/GEJ1/Taller_Python_PsiCodea/blob/main/PsiCodea_d%C3%ADa_2.ipynb)
 
 * Presentación de las librerías básicas del ecosistema de datos de Python (numpy, pandas, matplotlib,scipy)
 * Poyecto con datos de experimento online de percepción visual
